@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Raspberrry">#8A307F</color>
+    <color name="LightBlue">#79A7D3</color>
+    <color name="blue">#6883BC</color>
+    <color name="grey">#363A43</color>
+    <color name="Lightgreen">#86B381</color>
+    <color name="Red">#E81919</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
